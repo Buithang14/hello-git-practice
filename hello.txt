@@ -4,3 +4,4 @@ Feature: Login
 Main: Update documentation
 Feature: Register
 Update from GitHub
+Feature: User Profile
